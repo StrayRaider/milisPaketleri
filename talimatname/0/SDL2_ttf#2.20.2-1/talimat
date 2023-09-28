@@ -1,0 +1,17 @@
+[paket]
+tanim   = SDL uygulamalarında metin oluşturmak için TrueType yazı tiplerini kullanmanıza olanak tanır.
+paketci = Stray
+grup    = kütüphane
+url     = https://wiki.libsdl.org/SDL2_ttf/FrontPage
+
+[kaynak]
+gz      = https://github.com/libsdl-org/SDL_ttf/releases/download/release-2.20.2/
+
+[sha256]
+1           = 9dc71ed93487521b107a2c4a9ca6bf43fb62f6bddd5c26b055e6b91418a22053
+
+[derle]
+tip = gnu
+
+[pakur]
+tip = gnu

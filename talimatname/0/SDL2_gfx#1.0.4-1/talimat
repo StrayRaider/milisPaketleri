@@ -1,0 +1,17 @@
+[paket]
+tanim   = sdl üzeri basit grafik çizim kütüphanesi
+paketci = Stray
+grup    = kütüphane
+url     = https://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/
+
+[kaynak]
+gz      = http://www.ferzkopp.net/Software/SDL2_gfx/
+
+[sha256]
+1           = 63e0e01addedc9df2f85b93a248f06e8a04affa014a835c2ea34bfe34e576262
+
+[derle]
+tip = gnu
+
+[pakur]
+tip = gnu
